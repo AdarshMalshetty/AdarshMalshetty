@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="![image1](image1)" alt="Adarsh Malshetty Banner" />
+  <img src="images/banner.svg" alt="Adarsh Malshetty Banner" width="1000"/>
 </p>
 
 ## Hello! I'm **Adarsh Malshetty** 👋
 
+DevOps Engineer with deep expertise in orchestrating cloud-native deployments, automating CI/CD pipelines, and scaling infrastructure for high-performance enterprise systems. Passionate about automating workflows, designing scalable CI/CD pipelines, and building robust cloud-native solutions.
+
+- 📍 Hyderabad, India  
+- 📧 [adishetty224@gmail.com](mailto:adishetty224@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/adarshmalshetty)  
 DevOps Engineer @ NCR Voyix | Computer Science, KMIT Hyderabad
 
 <p align="center">
