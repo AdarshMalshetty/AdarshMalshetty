@@ -1,15 +1,23 @@
-<svg width="1000" height="240" viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1000" height="240" rx="32" fill="#23272e"/>
-  <text x="50%" y="38%" dominant-baseline="middle" text-anchor="middle" font-size="54" fill="#00d8ff" font-family="Segoe UI, Arial, sans-serif" font-weight="bold">
+<!-- filepath: /Users/adarsh/mygithub/AdarshMalshetty/images/banner.svg -->
+<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1000" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#2c5364"/>
+      <stop offset="1" stop-color="#00c6ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="220" rx="28" fill="url(#bgGradient)"/>
+  <text x="50%" y="38%" dominant-baseline="middle" text-anchor="middle" font-size="48" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-weight="bold" letter-spacing="2">
     Adarsh Malshetty
   </text>
-  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-size="28" fill="#fff" font-family="Segoe UI, Arial, sans-serif">
-    DevOps Engineer | Cloud | Automation | CI/CD | Python | Azure | GCP
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle" font-size="26" fill="#e0f7fa" font-family="Segoe UI, Arial, sans-serif">
+    DevOps Engineer • Cloud • Automation • CI/CD • Python • Azure • GCP
   </text>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-size="20" fill="#bdbdbd" font-family="Segoe UI, Arial, sans-serif">
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-size="18" fill="#b3e5fc" font-family="Segoe UI, Arial, sans-serif">
     Hyderabad, India • adishetty224@gmail.com • +91-6305570077
   </text>
-  <text x="50%" y="82%" dominant-baseline="middle" text-anchor="middle" font-size="18" fill="#bdbdbd" font-family="Segoe UI, Arial, sans-serif">
-    GitHub: github.com/AdarshMalshetty • LinkedIn: linkedin.com/in/adarshmalshetty
+  <text x="50%" y="82%" dominant-baseline="middle" text-anchor="middle" font-size="16" fill="#b3e5fc" font-family="Segoe UI, Arial, sans-serif">
+    github.com/AdarshMalshetty • linkedin.com/in/adarshmalshetty
   </text>
 </svg>

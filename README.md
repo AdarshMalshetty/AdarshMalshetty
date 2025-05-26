@@ -4,15 +4,16 @@
 
 ## Hello! I'm **Adarsh Malshetty** 👋
 
-DevOps Engineer with deep expertise in orchestrating cloud-native deployments, automating CI/CD pipelines, and scaling infrastructure for high-performance enterprise systems. Passionate about automating workflows, designing scalable CI/CD pipelines, and building robust cloud-native solutions.
+I'm a DevOps Engineer based in Hyderabad, passionate about building scalable cloud-native systems and automating infrastructure. I enjoy working with modern DevOps tools and cloud platforms to deliver reliable, efficient solutions. My experience spans designing CI/CD pipelines, managing Kubernetes environments, and driving automation across teams.
 
 - 📍 Hyderabad, India  
 - 📧 [adishetty224@gmail.com](mailto:adishetty224@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/adarshmalshetty)  
-DevOps Engineer @ NCR Voyix | Computer Science, KMIT Hyderabad
+- 💻 [GitHub](https://github.com/AdarshMalshetty)  
+- DevOps Engineer @ NCR Voyix | Computer Science, KMIT Hyderabad
 
 <p align="center">
-  <img src="images/sample2.gif" alt="DevOps Infinity Loop" width="320"/>
+  <img src="images/sample2.gif" alt="DevOps Infinity Loop" width="480"/>
 </p>
 
 I am passionate about automating workflows, designing scalable CI/CD pipelines, and building robust cloud-native solutions. My expertise spans DevOps, infrastructure as code, and cloud automation. I enjoy solving complex technical challenges and thrive on continuous learning.
@@ -22,7 +23,7 @@ I am passionate about automating workflows, designing scalable CI/CD pipelines, 
 ### 🚀 DevOps In Action
 
 <p align="center">
-  <img src="images/sample3.gif" alt="DevOps Automation GIF" width="400"/>
+  <img src="images/sample3.gif" alt="DevOps Automation GIF" width="520"/>
 </p>
 
 ---
@@ -30,8 +31,8 @@ I am passionate about automating workflows, designing scalable CI/CD pipelines, 
 ### 🛠️ CI/CD & Workflow
 
 <p align="center">
-  <img src="images/sample1.gif" alt="CI/CD Pipeline" width="700"/>
-</p>
+  <img src="images/sample1.gif" alt="CI/CD Pipeline" width="800"/>
+</p>>
 
 ---
 
