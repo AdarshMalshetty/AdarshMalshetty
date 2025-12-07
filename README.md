@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="images/banner.svg" width="1000"/>
-</p>
 
 <h1 align="center">👋 Hi, I'm Adarsh Malshetty</h1>
 
