@@ -86,21 +86,6 @@ A proof-of-concept platform exploring **containerized Android environments using
 
 ---
 
-### 🔹 Kubernetes Helm Blue-Green Deployments
-Production-grade blue-green deployment workflows using Helm to achieve zero-downtime microservices rollouts across multiple environments.
-
----
-
-### 🔹 Python DevOps Automation Toolkit
-Reusable Python utilities for deployment orchestration, environment bootstrapping, and operational automation.
-
----
-
-### 🔹 Terraform-Based GCP Microservices Platform
-Infrastructure-as-code for provisioning and managing cloud-native microservices on Google Cloud Platform.
-
----
-
 ## Engineering Philosophy
 
 I believe effective DevOps engineering requires understanding systems **end-to-end** — from hardware, networking, and operating systems to containers, orchestration, and automation.
