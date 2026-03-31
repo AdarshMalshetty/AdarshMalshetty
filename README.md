@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adarsh Malshetty</h1>
 
 <h3 align="center">
-DevOps Engineer II | Cloud-Native Platforms • Kubernetes • GCP • Automation
+DevOps Engineer II | Cloud-Native Platforms • Kubernetes • GCP • Azure
 </h3>
 
 <p align="center">
