@@ -1,101 +1,115 @@
-<h1 align="center">Hi, I'm Adarsh Malshetty</h1>
+<h1 align="center">Hi, I'm Adarsh Malshetty 👋</h1>
 
 <h3 align="center">
-DevOps Engineer II | Cloud-Native Platforms • Kubernetes • GCP • Azure
+DevOps Engineer II &nbsp;|&nbsp; Azure • GCP • Kubernetes • CI/CD
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=DevOps+Engineer+II+at+NCR+Voyix;Cloud-Native+Microservices+on+GCP;Kubernetes+%7C+Helm+%7C+CI%2FCD;Platform+Engineering+%26+Systems+Automation;99%2B+Uptime+Across+Enterprise+Clients" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=DevOps+Engineer+II+at+NCR+Voyix;Azure+%7C+GCP+%7C+Multi-Cloud+Infrastructure;Kubernetes+%7C+Helm+%7C+Terraform+%7C+Ansible;Azure+DevOps+Pipelines+%7C+Jenkins+%7C+GitHub+Actions;99%25%2B+Uptime+Across+Enterprise+Retail+Clients" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarsh-malshetty/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:adishetty224@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/AdarshMalshetty"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ## About Me
 
-I am a **DevOps Engineer II** with **2+ years of hands-on production experience**, focused on building, operating, and scaling **cloud-native platforms** on **Google Cloud Platform (GCP)**.
+I'm a **DevOps Engineer II** with **2+ years of production experience** building and operating cloud infrastructure across **Microsoft Azure** and **Google Cloud Platform (GCP)**.
 
-My work centers around **Kubernetes-based microservices**, **CI/CD automation**, and **Python-driven operational tooling**, supporting **multi-tenant enterprise systems** with strict uptime and reliability requirements.
+My work spans end-to-end infrastructure ownership — from provisioning Azure IaaS with Terraform and configuring systems with Ansible, to running multi-tenant Kubernetes platforms at 99%+ uptime for enterprise retail clients. I've handled everything from routine CI/CD automation to specialist projects like provisioning **NVIDIA GPU-capable Azure VMs** (NCv3/NCasT4) for an AI-based retail loss prevention platform.
 
-In parallel with enterprise production work, I actively build **self-hosted and experimental infrastructure projects** to deepen my understanding of systems, networking, security, and platform design.
+I learn by building — when I need to sharpen a skill I create a real project around it.
 
-📍 Hyderabad, India  
-📧 **adishetty224@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/adarshmalshetty)  
-💻 [GitHub](https://github.com/AdarshMalshetty)
+📍 Hyderabad, India &nbsp;|&nbsp; 📧 adishetty224@gmail.com
 
 ---
 
 ## What I Work On
 
-<p align="center">
-  <img src="images/sample2.gif" width="480" alt="DevOps Automation Loop"/>
-</p>
-
-- Cloud-Native Platform Engineering (GCP)
-- Kubernetes & Helm (multi-environment, multi-client)
-- CI/CD Pipelines (Jenkins, GitHub Actions)
-- Python-based Operational Automation
-- Infrastructure as Code (Terraform, Ansible)
-- Monitoring, Logging & Root Cause Analysis
-- **Self-Hosted Infrastructure & Systems Engineering**
+- **Multi-Cloud Infrastructure** — Microsoft Azure (IaaS, DevOps Pipelines, Blob Storage, Static Web Apps) and GCP (Compute Engine, Pub/Sub, Cloud Storage)
+- **CI/CD Automation** — Azure DevOps Pipelines, Jenkins (multi-stage), GitHub Actions
+- **Infrastructure as Code** — Terraform, Ansible, Bicep/ARM
+- **Container Orchestration** — Kubernetes (AKS/GKE), Helm — multi-tenant production environments
+- **Scripting & Automation** — Python, PowerShell, Bash
+- **Observability** — Grafana, Azure Monitor, GCP Logging
 
 ---
 
 ## Key Impact
 
-- Reduced deployment time by **~80%** through Python automation and Helm-based orchestration
-- Maintained **99%+ uptime** across production microservices
-- Managed **50+ environments** for **7 enterprise retail clients**
-- Built and customized Helm charts for new and existing services
-- Resolved **500+ production and support incidents annually**
+| Metric | Result |
+|--------|--------|
+| Deployment time reduction | **75–80%** through Python + Helm automation |
+| Production uptime | **99%+** across multi-tenant Kubernetes platform |
+| Environments managed | **50+** Azure and GCP environments |
+| Enterprise clients | **7** large retail clients |
+| Production incidents resolved | **500+** annually |
+| Release cycle improvement | **2–3 days → under 6 hours** |
 
 ---
 
 ## Tech Stack
 
-### Languages
-Python • Java • Bash • YAML
-
-### Cloud & Containers
-Google Cloud Platform (GCP) • Azure  
-Docker • Kubernetes • Helm
-
-### CI/CD & Infrastructure
-Jenkins • GitHub Actions  
-Terraform • Ansible
-
-### Observability & Networking
-Grafana • GCP Logging  
-Kubernetes Ingress • Service Networking
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
 
 ---
 
 ## Featured Projects
 
-### 🔹 Self-Hosted Home Server & Personal Cloud
-A production-style home server built using **Ubuntu Server** on a virtualized host, providing secure remote file access, static networking, and a foundation for future services such as VPN access and media streaming.
+### 🏏 [IPL 2026 Live Dashboard](https://github.com/AdarshMalshetty/ipl-2026-dashboard)
 
-**Focus areas:** Linux administration, networking, security hardening, infrastructure isolation.
+> **[Live Demo →](https://black-tree-0f9e5e710.1.azurestaticapps.net)**
+
+A live IPL 2026 points table and fixtures dashboard — deployed to **Azure Static Web Apps** via an **Azure DevOps Pipeline** that auto-triggers on every push to `main`.
+
+Built to demonstrate end-to-end Azure DevOps pipeline ownership — from setting up a self-hosted agent and configuring pipeline variables as secrets, through to automated deployment of a PaaS application.
+
+**Stack:** Azure Static Web Apps · Azure DevOps Pipelines · SWA CLI · GitHub
 
 ---
 
-### 🔹 Android Application Containerization Platform
-A proof-of-concept platform exploring **containerized Android environments using Docker**, aimed at enabling scalable, cloud-based execution and CI/CD-friendly Android workloads.
+### 🖥️ Self-Hosted Home Lab
 
-**Focus areas:** Docker internals, Android runtime architecture, container isolation, platform design.
+A production-style home server built on **Ubuntu Server / Hyper-V** with bridged networking, static IP, and dynamic DNS (DuckDNS) for secure remote access. Hardened with UFW firewall rules, SSH key authentication, and service isolation.
+
+**Focus:** Linux administration · Network configuration · Security hardening · Infrastructure isolation
+
+---
+
+### 📱 Android Containerisation Platform
+
+A proof-of-concept platform for running **Android environments inside Docker containers** — abstracting runtime dependencies into reusable layers for portable, CI/CD-friendly Android workloads.
+
+**Focus:** Docker internals · Android runtime architecture · Container isolation
 
 ---
 
 ## Engineering Philosophy
 
-I believe effective DevOps engineering requires understanding systems **end-to-end** — from hardware, networking, and operating systems to containers, orchestration, and automation.
+Good DevOps requires understanding systems end-to-end — from the network layer and OS up through containers, orchestration, and automation. I don't just run tools; I understand why they work the way they do.
 
-Alongside enterprise production responsibilities, I build self-hosted and experimental platforms to:
-- Validate architectural assumptions
-- Understand failure modes deeply
-- Design systems that are observable, secure, and extensible
-
-These projects reflect how I think, not just the tools I use.
+When I need to sharpen a skill I build something real around it. That's how the IPL dashboard was born — a weekend project to make sure my Azure hands-on was current, not just theoretical.
 
 ---
 
@@ -111,11 +125,6 @@ These projects reflect how I think, not just the tools I use.
 </p>
 
 ---
-
-## Connect With Me
-
-📧 **Email:** adishetty224@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/adarshmalshetty  
 
 <p align="center">
   <i>Building scalable systems. Automating the boring. Keeping production alive.</i>
