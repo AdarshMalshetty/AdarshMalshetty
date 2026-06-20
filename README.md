@@ -100,16 +100,6 @@ I understand systems from the network and OS layer up through containers, orches
 
 ## Featured Projects
 
-### 🏏 [IPL 2026 Live Dashboard](https://github.com/AdarshMalshetty/ipl-2026-dashboard)
-
-> **[Live Demo →](https://black-tree-0f9e5e710.1.azurestaticapps.net)**
-
-A live IPL 2026 points table and fixtures dashboard deployed to **Azure Static Web Apps** via an **Azure DevOps Pipeline** that auto-triggers on every push to `main`. Includes a serverless **Azure Functions** + **Blob Storage** data pipeline for real-time score updates — no dedicated backend.
-
-**Stack:** Azure Static Web Apps · Azure DevOps Pipelines · Azure Functions · Blob Storage · GitHub
-
----
-
 ### 🖥️ Self-Hosted Home Lab — Hyper-V & Networking
 
 A production-style home server running **Ubuntu Server as a Hyper-V guest VM** with bridged networking, static IP assignment, and dynamic DNS (DuckDNS). Hardened with UFW firewall rules, SSH key authentication, and service isolation.
